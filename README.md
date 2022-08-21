@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhaledxOmar
-- 👀 I’m interested in AppDevelopment, 
-- 🌱 I’m currently learning Flutter and Java.
+- 👀 I’m interested in Web Development, 
+- 🌱 I’m currently learning Java, html and css.
      I'm Software Engineering Student at King Fahad University of Petroleum and Minerals.
 - 📫 mr.khaledomar7@gmail.com
 
